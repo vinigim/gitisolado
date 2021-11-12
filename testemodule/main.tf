@@ -17,6 +17,6 @@ resource "aws_instance" "web" {
   ]
 
   tags = {
-    Name = "EC2-vinicius-module"
+    Name = "EC2-vinicius-modul-teste"
   }
 }
